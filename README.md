@@ -51,8 +51,6 @@ I'm an indie developer and graphic designer building my version of the digital w
 <a href="http://www.github.com/ChaminduGamage"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaminduGamage&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 #
-<br/>
-
 
 
 <p align="center">
