@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px">
+![readmebox](/assets/readmebox.svg)
 ### Hi there 👋
 
 <!--
