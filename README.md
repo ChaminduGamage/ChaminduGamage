@@ -36,6 +36,7 @@ I'm an indie developer and graphic designer building my version of the digital w
 <img align="left" alt="PR" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Premiere.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Light.svg"/>
 
+---
 
 ###My GitHub Stats
 
