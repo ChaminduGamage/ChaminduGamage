@@ -11,7 +11,7 @@ I'm an indie developer and graphic designer building my version of the digital w
   <a href="https://github.com/ChaminduGamage?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ChaminduGamage?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/ChaminduGamage?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ChaminduGamage?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ChaminduGamage?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followes&logoColor=white"/></a>
    <a href="https://www.github.com/ChaminduGamage" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ChaminduGamage?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
