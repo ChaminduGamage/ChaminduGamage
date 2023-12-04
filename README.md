@@ -1,5 +1,5 @@
 ![readmebox](https://github.com/ChaminduGamage/ChaminduGamage/blob/main/Images/Portfolio%20cover%20colors.png?raw=true)
-align=center### Hi there 👋
+<h1 align=center>Hi there 👋</h1>
 # 🏄‍♂️ Chamindu Gamage
 
 **`Digital Craftsman (Developer/UI UX Designer/Graphic Designer/Photographer)`**
