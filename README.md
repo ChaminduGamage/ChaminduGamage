@@ -43,7 +43,7 @@ I'm an indie developer and graphic designer building my version of the digital w
 <br/>
 
 #
-
+<br/>
 
 
 ###My GitHub Stats
