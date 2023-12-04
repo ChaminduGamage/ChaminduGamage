@@ -41,7 +41,7 @@ I'm an indie developer and graphic designer building my version of the digital w
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Connect%20with%20me&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Connect%20with%20me&font=Fira%20Code&center=true&width=440&height=45&color=8590c5&vCenter=true&pause=1000&size=22" /></a>
 </p>
 </br>
 
