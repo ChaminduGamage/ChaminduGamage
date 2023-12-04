@@ -37,16 +37,13 @@ I'm an indie developer and graphic designer building my version of the digital w
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Light.svg" />
 
 
-
-
-
-
+<br>
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
+</br>
 
 <!--
 **ChaminduGamage/ChaminduGamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
