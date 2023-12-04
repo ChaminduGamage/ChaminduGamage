@@ -1,4 +1,4 @@
-![readmebox](https://github.com/ChaminduGamage/ChaminduGamage/blob/main/Portfolio%20cover%20New.jpg?raw=true)
+!(https://github.com/ChaminduGamage/ChaminduGamage/blob/main/Portfolio%20cover%20New.jpg?raw=true)
 ### Hi there 👋
 
 <!--
