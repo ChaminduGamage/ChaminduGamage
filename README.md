@@ -1,4 +1,4 @@
-![readmebox](/assets/readmebox.svg)
+![readmebox](Portfolio cover New.jpg)
 ### Hi there 👋
 
 <!--
